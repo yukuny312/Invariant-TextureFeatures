@@ -2,8 +2,10 @@
 
 ## Overview
 
-## Datasets
-
+## Dataset
+1. BraTS2020 Dataset
+   https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+3. Fresh and Rotten Fruits Dataset https://data.mendeley.com/datasets/bdd69gyhv8/1
 ## Usage
 
 ## Citations
