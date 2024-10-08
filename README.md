@@ -1,4 +1,5 @@
 # Gray Level Invariant Texture Features
+[Paper PlaceHolder]
 
 ## Overview
 The key contributions of this work: 
@@ -33,3 +34,6 @@ There are three subfolders under main branch.
    
 ## Citations
 If you find this repository useful, please consider giving a star ⭐ and citation!
+
+## References
+https://github.com/patrik-brynolfsson/invariant-haralick-features?tab=readme-ov-file
