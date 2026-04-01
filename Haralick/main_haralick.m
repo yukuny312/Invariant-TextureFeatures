@@ -2,8 +2,6 @@
 
 % Define the parent directory
 parentDir = '/Invariant_Feature/data/brain-mri-jpg';
-
-% Get a list of all folders in the parent directory
 items = dir(fullfile(parentDir));
 croppedItems = items(startsWith({items.name}, '_t2'));
 
