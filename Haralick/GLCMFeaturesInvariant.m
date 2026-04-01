@@ -45,7 +45,6 @@ function out = GLCMFeaturesInvariant(glcm, varargin)
 % Sum variance [1,4]   
 %
 % Example:
-% --------
 % % First create GLCMs from a 2d image
 % GLCMs = graycomatrix(image,'Offset',[0 1; -1 1;-1 0;-1 -1],'Symmetric',...
 %   true,'NumLevels',64,'GrayLimits',[0 255]);
