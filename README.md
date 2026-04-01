@@ -1,16 +1,16 @@
-# Gray Level Invariant Texture Features
+# Invariant Texture Features to Gray Level Discretization
 [Paper PlaceHolder]
 
 ## Overview
 The key contributions of this work: 
 
-(1) Extend the normalization method to texture features in GLCM, GLSZM, GLRLM, GLDM and NGTDM.
+(1)	A normalization-based invariant texture feature extraction method is proposed.
 
-(2) Compare the invariant texture feature properties derived from the normalization factor method with the well-defined Haralick method.
+(2) Classification performance is systematically compared between original and invariant texture features.
 
-(3) Analyze the invariance of texture features using statistical measurement and visualized characterized map.
+(3) Invariant features exhibit superior stability across medical and non-medical datasets.
 
-(4) Investigate the application of invariant texture features for image classification.
+(4) •	The proposed method consistently outperforms the original features under diverse data conditions.
 
 ## Dataset
 1. Brain Tumor Segmentation 2020 Dataset [BraTS 2020](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
